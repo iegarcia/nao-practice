@@ -1,0 +1,30 @@
+/* Personaliza los estilos según las preferencias de Caroline */
+
+.jumbotron {
+  /* background-image: url("https://deepdreamgenerator.com/storage/fast_queue/temp_images/86793bd1e4283b869407f4b85eb66233074e0336.jpg"); Cambia por la imagen de fondo deseada */
+  background-color: #001f3f;
+  color: #fff;
+  padding: 100px 0;
+  background-size: cover;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.btn-primary {
+  background-color: #f39c12; /* Cambia por el color principal deseado */
+  border-color: #f39c12;
+}
+
+/* Agrega más estilos según sea necesario */
+/* Personaliza los estilos según las preferencias de Caroline */
+#about {
+  background-color: #f8f9fa; /* Fondo claro para resaltar la sección */
+  padding: 80px 0;
+}
+
+#about h2 {
+  color: #f39c12; /* Color principal para encabezados */
+}
+
+#about p {
+  color: #6c757d; /* Color de texto oscuro para mayor legibilidad */
+}
