@@ -1,5 +1,3 @@
-/* Personaliza los estilos según las preferencias de Caroline */
-
 .jumbotron {
   /* background-image: url("https://deepdreamgenerator.com/storage/fast_queue/temp_images/86793bd1e4283b869407f4b85eb66233074e0336.jpg"); Cambia por la imagen de fondo deseada */
   background-color: #001f3f;
@@ -10,12 +8,10 @@
 }
 
 .btn-primary {
-  background-color: #f39c12; /* Cambia por el color principal deseado */
+  background-color: #f39c12;
   border-color: #f39c12;
 }
 
-/* Agrega más estilos según sea necesario */
-/* Personaliza los estilos según las preferencias de Caroline */
 #about {
   background-color: #f8f9fa; /* Fondo claro para resaltar la sección */
   padding: 80px 0;
@@ -27,4 +23,23 @@
 
 #about p {
   color: #6c757d; /* Color de texto oscuro para mayor legibilidad */
+}
+
+#faq {
+  background-color: #f8f9fa; /* Fondo claro para resaltar la sección FAQ */
+  padding: 80px 0;
+}
+
+#faq h2 {
+  color: #f39c12; /* Color principal para encabezados */
+}
+
+.accordion {
+  margin-bottom: 15px;
+}
+
+.accordion-button,
+.accordion-button:not(.collapse) {
+  background-color: #f39c12; /* Fondo del encabezado de la tarjeta */
+  color: #fff; /* Texto blanco para mayor contraste */
 }
